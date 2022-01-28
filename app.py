@@ -5,7 +5,7 @@ from datetime import datetime
 
 class Game:
     def __init__(self):
-        print("Adi")
+        print("Adia")
 
 
 if __name__ == '__main__':
